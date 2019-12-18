@@ -11,9 +11,5 @@
     
     <artifactId>module1</artifactId>    
     <packaging>pom</packaging>
-
-	<modules>
-        <module>sub-module1</module>        
-    </modules>
 	
 </project>
